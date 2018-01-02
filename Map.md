@@ -35,3 +35,6 @@ No
   <tr><td>value==NULL</td><td>Yes</td><td>No</td><td>No</td><td>Yes</td></tr>
 
 </table>
+
+HashTable 是整个对象加锁<br/>
+ConcurrentMap 是将对象分为若干个hashmap，然后分区块加锁
