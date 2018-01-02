@@ -31,4 +31,7 @@ Yes
 No
 </td>
 </tr>
+  <tr><td>key==NULL</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr>
+  <tr><td>value==NULL</td><td>Yes</td><td>No</td><td>No</td><td>Yes</td></tr>
+
 </table>
